@@ -13,6 +13,13 @@
 ### Tracery
 
 
+Gramática sencilla
+
+```json
+{
+  "animal": ["unicorn", "raven", "sparrow"]
+}
+```
 
 
 ### Etiqueta
