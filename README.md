@@ -42,3 +42,8 @@
 
 #### Darius Kazemi / tinysubversions
 - [www](https://tinysubversions.com) [tw](https://twitter.com/tinysubversions) [gh](http://github.com/dariusk)
+
+
+---
+
+![Promo del taller](booots.gif)
