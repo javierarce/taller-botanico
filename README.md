@@ -12,15 +12,25 @@
 
 ### Tracery
 
+---
+
 ### Recursos
 
+#### Texto
 - [Corpora](http://github.com/dariusk/corpora)
 - [Artículo aleatorio de la Wikipedia](http://en.wikipedia.org/wiki/Special:Random)
 - [Awesome Public Datasets](http://github.com/awesomedata/awesome-public-datasets)
 - [Aesome JSON Datasets](http://github.com/jdorfman/Awesome-JSON-Datasets)
+- [Cheap Markovs, Traced Quick!](http://github.com/serin-delaunay/cheapmarkovstracedquick)
+
+#### Imágenes
 - [New Yorker Random Cartoon](http://new-yorker-cartoon-url.glitch.me/image)
 - [Unsplash Random Image](http://unsplash-proxy.glitch.me/random/1024x512?query=book)
-- [Cheap Markovs, Traced Quick!](http://github.com/serin-delaunay/cheapmarkovstracedquick)
+- [The Cat API](http://thecatapi.com/api/images/get?format=src&type=jpg)
+- [Lorem Flickr](http://loremflickr.com)
+- [Picsum.photos](http://picsum.photos)
+
+---
 
 ### Personas
 
