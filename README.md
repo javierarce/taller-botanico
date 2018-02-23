@@ -12,6 +12,18 @@
 
 ### Tracery
 
+
+
+
+### Etiqueta
+
+– Don’t @mention people who haven’t opted in.  
+– Don’t follow Twitter users who haven’t opted in.  
+– Don’t use a pre-existing hashtag.  
+– Don’t go over your rate limits.  
+
+Fuente: [Basic Twitter bot etiquette, Darius Kazemi](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette).
+
 ---
 
 ### Recursos
