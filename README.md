@@ -131,14 +131,55 @@
 
 #### Imágenes
 
-````<image width="540" height="380" xlink:href="URL" />```
+```js
+<image width="540" height="380" xlink:href="URL" />
+```
 
 ```json
 {
   "image": ["url","url2", "url3"],
-  "origin": "{svg <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='540' height='380'><image width='540' height='380' xlink:href='#image#' /></svg>}"
+  "origin": "{svg <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' 
+   width='540' height='380'><image width='540' height='380' xlink:href='#image#' /></svg>}"
 }
 ```
+#### Texto 
+
+```json
+<text x="256" y="300" font-size="30" stroke="black" stroke-width="1" 
+fill="white" text-anchor="middle" style="font-family: Impact">Mi texto</text>
+```
+
+#### Texto 
+
+```json
+<text x="256" y="300" font-size="30" stroke="black" stroke-width="1" fill="white"
+text-anchor="middle" style="font-family: Roboto">Mi texto</text>
+<style type=\"text/css\">@import url(https://fonts.googleapis.com/css?family=Roboto);</style>
+</svg>
+```
+
+#### HTML 
+
+```json
+<foreignObject x='0' y='0' width='540' height='380'>
+  <p xmlns='http://www.w3.org/1999/xhtml' style='width: 100%; color: white; background: black; padding: 20px; margin: 0; font-size:24px;'>
+    Hola <strong>mundo</strong>
+  </p>
+</foreignObject>
+```
+
+#### JavaScript 
+
+```json
+<foreignObject x='0' y='0' width='540' height='380'> 
+  <div xmlns='http://www.w3.org/1999/xhtml'id='date'></div> 
+  <script>   
+    document.getElementById('date')[0].innerHTML = new Date(); 
+  </script> 
+</foreignObject>
+```
+
+
 
 
 ### Etiqueta
