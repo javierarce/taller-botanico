@@ -13,13 +13,80 @@
 ### Tracery
 
 
-Gramática sencilla
+#### Gramática sencilla
 
 ```json
 {
   "animal": ["unicorn", "raven", "sparrow"]
 }
+
 ```
+
+#### Anidamiento
+
+```json
+{
+  "animal": ["unicorn", "raven", "sparrow"],
+  "color": ["orange", "blue", "white"],   
+  "sentence": ["The #color# #animal# is happy"]
+}
+```
+
+#### Modificadores
+
+
+#### .capitalize 
+
+```json
+{
+  "objects": ["watch", "bike", "book"],
+  "origin": "#objects.capitalize#"
+} 
+```
+
+#### .capitalizeAll 
+
+```json
+{
+  "objects": ["watch", "bike", "book"],
+  "origin": "#objects.capitalizeAll#"
+}
+```
+#### .s 
+
+```json
+{
+  "objects": ["watch", "bike", "book"],
+  "origin": "#objects.s#"
+}
+```
+
+#### .a 
+
+```json
+{
+  "objects": ["book", "amplifier", "harp"],
+  "origin": "#objects.a#"
+}
+```
+#### .ed
+
+```json
+{
+  "verbs": ["bounce", "walk", "buy"],
+  "origin": "#objects.ed#"
+}
+```
+
+#### .replace(x,y)
+
+```json
+{
+  "objects": ["his watch", "his bike"],
+  "origin": "#objects.replace(his, her)#"
+}
+```
+
 
 
 ### Etiqueta
