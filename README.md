@@ -51,6 +51,7 @@
   "objects": ["watch", "bike", "book"],
   "origin": "#objects.capitalizeAll#"
 }
+
 ```
 #### .s 
 
@@ -88,6 +89,15 @@
 ```
 
 
+#### Memoria
+
+```json
+{
+  "objects": ["watch", "bike", "book"],
+  "story": ["I want #object.a#, ok? #object.a#!"],
+  "origin": ["#[object:#objects#]story#"]
+}
+```
 
 ### Etiqueta
 
