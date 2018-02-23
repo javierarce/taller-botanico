@@ -99,6 +99,48 @@
 }
 ```
 
+#### Más difícil todavía
+
+```json
+{ 
+  "name": ["Fox", "Jedoo"], 
+  "story": ["#hero# was #occupation.a#. One day #pronoun# #action#."], 
+  "setPronoun": ["[pronoun:she]", "[pronoun:he]"],
+   "setOccupation": [ "[occupation:baker][action:baked, decorated cupcakes, iced a cake]", "[occupation:warrior][action:fought a monster, saved a village]"], 
+  "origin": ["#[#setOccupation#][#setPronoun#][hero:#name#]story#"] 
+}
+```
+
+
+### SVG
+
+```json
+{
+  "story": "Texto {svg <svg>YOUR SVG CODE</svg>}"
+}
+```
+
+```json
+{ 
+  "story": "Texto {svg <svg xmlns='http://www.w3.org/
+           2000/svg' xmlns:xlink='http://www.w3.org/
+           1999/xlink' width='1024' height='512'></
+           svg>}" 
+}
+```
+
+#### Imágenes
+
+````<image width="540" height="380" xlink:href="URL" />```
+
+```json
+{
+  "image": ["url","url2", "url3"],
+  "origin": "{svg <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='540' height='380'><image width='540' height='380' xlink:href='#image#' /></svg>}"
+}
+```
+
+
 ### Etiqueta
 
 – Don’t @mention people who haven’t opted in.  
