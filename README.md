@@ -201,6 +201,7 @@ Fuente: [Basic Twitter bot etiquette, Darius Kazemi](http://tinysubversions.com/
 - [Awesome Public Datasets](http://github.com/awesomedata/awesome-public-datasets)
 - [Aesome JSON Datasets](http://github.com/jdorfman/Awesome-JSON-Datasets)
 - [Cheap Markovs, Traced Quick!](http://github.com/serin-delaunay/cheapmarkovstracedquick)
+- [Snowclones](http://snowclones.org)
 
 #### Imágenes
 - [New Yorker Random Cartoon](http://new-yorker-cartoon-url.glitch.me/image)
