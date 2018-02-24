@@ -212,12 +212,18 @@ Fuente: [Basic Twitter bot etiquette, Darius Kazemi](http://tinysubversions.com/
 - [Lorem Flickr](http://loremflickr.com)
 - [Picsum.photos](http://picsum.photos)
 
-
 ### Bots en Glitch
 - [Glitch](http://glitch.com)
 - [Website Starter Kit](http://glitch.com/website-starter-kit)
 - [Twitterbot](http://glitch.com/~twitterbot)
 - [Tracery Twitterbot](http://glitch.com/~tracery-twitter-bot)
+
+
+### Da conocer a tu bot
+
+- [botwiki.org](https://botwiki.org)
+- [Formulario de envío](https://docs.google.com/forms/d/e/1FAIpQLSeRFIw2gwVWahveCKI7VJaQsgDHZNMKLXwNFHP1YSD1fX36ug/viewform)
+
 
 ---
 
