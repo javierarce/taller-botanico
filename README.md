@@ -212,9 +212,16 @@ Fuente: [Basic Twitter bot etiquette, Darius Kazemi](http://tinysubversions.com/
 - [Lorem Flickr](http://loremflickr.com)
 - [Picsum.photos](http://picsum.photos)
 
+
+### Bots en Glitch
+- [Glitch](http://glitch.com)
+- [Website Starter Kit](http://glitch.com/website-starter-kit)
+- [Twitterbot](http://glitch.com/~twitterbot)
+- [Tracery Twitterbot](http://glitch.com/~tracery-twitter-bot)
+
 ---
 
-### Personas
+### VIPS
 
 #### Kate Compton / Galaxy Kate
 - [www](http://www.galaxykate.com) [tw](https://twitter.com/GalaxyKate) [gh](https://github.com/galaxykate/tracery)
