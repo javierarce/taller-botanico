@@ -1,5 +1,7 @@
 # Taller botánico
 
+[Descargar presentación (PDF)](https://github.com/javierarce/taller-botanico/blob/master/taller-botanico.pdf)
+
 ### Tracery
 
 - [Tracery](http://www.tracery.io)
